@@ -105,6 +105,4 @@ int main() {
     cout << "Відсортований масив: ";
     v(af, ag);
     cout << endl;
-
-    return 0;
 }
